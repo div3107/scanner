@@ -98,7 +98,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ## 🔗 Connect with Me
-💻 **GitHub:** [github.com/yourusername](https://github.com/div3107)   
+💻 **GitHub:** [github.com/div3107](https://github.com/div3107)   
 📧 **Email:** geek.divyanshu@gmail.com  
 
 🔒 **Stay secure and happy hacking!** 🚀
